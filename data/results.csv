@@ -1,2 +1,2 @@
-Centralized,Decentralized,Decentralized Lasso,Decentralized Ridge,Decentralized Elasticnet,Decentralized Log Lin,Decentralized Log Log,Decentralized DT,Centralized RF,Decentralized RF,Centralized GB,Decentralized GB,K-means,DBSCAN
-0.11424869338144872,0.5165391351359222,0.5228940434610165,0.5708880383101379,0.5846685843977957,0.558297423402921,0.1996894182971639,0.4232679382199352,0.26560690346280835,0.5589236460509099,0.4078799719980416,0.4775450628794162,0.20515152272452708,0.5497755765922085
+Centralized,Decentralized,Decentralized Lasso,Decentralized Ridge,Decentralized Elasticnet,Decentralized Log Lin,Decentralized Log Log,Centralized DT,Decentralized DT,Centralized RF,Decentralized RF,Centralized GB,Decentralized GB,K-means,DBSCAN
+0.114248693,0.516539135,0.522894043,0.570888038,0.584668584,0.558297423,0.199689418,0.159197016,0.398778831,0.272475861,0.558817416,0.22285103,0.496599413,0.560435217,0.559224184
