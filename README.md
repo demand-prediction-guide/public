@@ -1,22 +1,47 @@
 # Demand Prediction in Retail - A Practical Guide to Leverage Data and Predictive Analytics
 
 
-# Install requirements and launch notebook:
+# SET-UP OPTION 1: Using Anaconda on your local machine
+
+## Install anaconda:
+
+Download the anaconda version which corresponds to your OS
+
+https://www.anaconda.com/products/individual
+
+## Install requirements and launch notebook:
 In your command line:
 
 ```
-conda env create -f DemandForecastingEnv.yml
+$ conda env create -f DemandForecastingEnv.yml
 ```
 
 ```
-conda activate DemandForecastingGuide
+$ conda activate DemandForecastingGuide
 ```
 
 ```
-jupyter-notebook
+$ jupyter-notebook
 ```
 
-# Repository Structure:
+
+# SET-UP OPTION 2: Using Google Colab
+
+Directly start coding using the following link:
+
+https://colab.research.google.com/notebooks/intro.ipynb#
+
+# ACCESS NOTEBOOKS AND DATASETS:
+
+## Clone repository:
+
+```
+$ git clone https://github.com/demand-prediction-guide/public.git
+```
+
+
+
+## Repository structure
 
 
 ```bash
