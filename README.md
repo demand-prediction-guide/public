@@ -24,6 +24,7 @@ jupyter-notebook
   ├── data                           
   │    ├── data_raw.csv                                                 # Raw dataset  
   │    ├── data_processed.csv                                           # Pre-processed dataset  
+  │    ├── robustness_test.csv                                          # Evaluation of split ratio robustness
   │    └── results.csv                                                  # Results sumary   
   ├── notebooks                             
   │    ├── 1_Introduction.ipynb                                         # Intro
