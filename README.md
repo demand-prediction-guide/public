@@ -1,4 +1,4 @@
-# A Practical Guide for Demand Prediction in Retail
+# Demand Prediction in Retail - A Practical Guide to Leverage Data and Predictive Analytics
 
 
 # Install requirements and launch notebook:
